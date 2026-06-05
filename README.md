@@ -1,8 +1,8 @@
-#Installation Steps
+# Installation Steps
 
 To install the 'Myadd' MCP server, run the following command to your MCP client
 
-'''json
+```json
 {
 "mcpServers": {
     "Myadd":{
@@ -14,6 +14,6 @@ To install the 'Myadd' MCP server, run the following command to your MCP client
       ]
     }
   }
-  '''
+  ```
 
-  this will fetch and set-up the 'mcp-server' from the specified GitHub repository.
+  This will fetch and set-up the 'mcp-server' from the specified GitHub repository.
