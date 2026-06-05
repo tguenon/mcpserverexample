@@ -3,6 +3,7 @@
 To install the 'Myadd' MCP server, run the following command to your MCP client
 
 '''json
+{
 "mcpServers": {
     "Myadd":{
       "command": "uvx",
